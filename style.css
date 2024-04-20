@@ -1,0 +1,38 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+header{
+	background-image:url("images/01-1.png"),
+					url("images/01-2.png"),
+					url("images/01.png");
+	background-position:center;
+	background-repeat:right,
+					right,
+					no-repeat;
+	background-size:cover;
+	height:860px;
+}
+.header-text{
+	padding-left:50px;
+	padding-top:200px;
+}
+.header-text div{
+	color:#FF9900;
+	font-size:30px;
+	text-transform:uppercase;
+}
+.hh{
+	color:#FF7500;
+}
+header img{
+	color:#FF5100;
+	vertical-align:middle;
+}
+.section-1{
+	background-color:#830000;
+	background:no-repeat url("images/02.png");
+	background-position:center top -200px;
+	background-repeat:no-repeat;
+	height:860px;
+}
